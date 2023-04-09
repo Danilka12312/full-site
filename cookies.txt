@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+127.0.0.1:3000	TRUE	/	FALSE	1999999999	_site_session	mgpQrpFYXvbFys9%2Bvx1G2MktzjnQQjUgxdJYhonOQL1Ixx%2BzzBJth1t%2FsXp%2FDLKdgUvA7zSfqWzVjAbsUSgfZZr42ggkCzFvURJqymSjF4O8W5mughUhYjngfTqbfg1gJWbxMERSR619PHyvhwu9hNI8XsmiR%2FSSy4mE%2Bk7TI%2FuZv9kfa%2BxeCxhxypFREWtGUjh%2FPGpdcwqeGImFEbqeUSUHfajX16FibuvXVy1ZL1olGRdntpdbYhq2yjO1iqiLAUQYHFt6G634NK1ihhUnW%2B%2BFplK0--kC%2B8R0CkKKXnM%2B3r--K0Lx9EpNv5ngXdX84bVjcQ%3D%3D
+127.0.0.1:3000	TRUE	/	FALSE	1999999999	SameSite	Lax
+
